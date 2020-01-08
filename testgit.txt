@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4073-B227
+
+ Directory of C:\Users\dba\Desktop\MyGitproject
+
+01/07/2020  10:03 PM    <DIR>          .
+01/07/2020  10:03 PM    <DIR>          ..
+01/07/2020  10:03 PM                 0 testgit.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  334,815,940,608 bytes free
